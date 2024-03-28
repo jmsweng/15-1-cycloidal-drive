@@ -1,0 +1,51 @@
+Laser cut parts:
+Material and thickness for all parts noted in file name, get 2x cycloidal disks made.
+Use cams labeled "bigger hole" if not using the Mcmaster-carr motor that has slightly larger flats on the shaft
+SendCutSend's automated quote system doesn't like some of the .step files for some parts and some .dxf files for others. Use the following files if purchasing from SCS
+	DXF:	cycloidal disk, input eccentric cam, input concentric cam, input eccentric cam, gearbox output bearing plate, output hub plate 3
+	STEP:	gearbox base, gearbox pin retaining plate, output hub plate 1, output hub plate 2
+Double that part sizes are correct/in correct units before ordering:
+	cams should be about 20mm/0.79in 
+	hub plates are about 65mm/2.6in
+	gearbox plates should be about 95mm/3.74 in 
+	cycloidal disk should be about 73mm
+Gearbox base needs four M4 tapped holes, see part drawings folder
+Gearbox output bearing plate has two options, one has countersunk holes so that screw heads are flush, one does not
+
+3D printed parts:
+Step files for all printed parts are included and should be able to be imported directly to slicer. The spacers are all in the step files in the quantity needed.
+Motor to gearbox spacer may need to have dimensions adjusted if using a motor with a different length shaft.
+		
+Bearings:
+Bearings are crazy expensive from mcmaster-carr
+All bearings should be rubber sealed
+
+1x 	- 6813 Bearing, Mcmaster-Carr #6656K238
+		https://www.lily-bearing.com/products/6813-2rs/
+		https://bearingsdirect.com/6813-2rs-ball-bearing-65x85x10-sealed/
+3x 	- 6704 Bearing, Mcmaster-Carr #4668K256
+		https://www.lily-bearing.com/products/6704-2rs/
+		https://bearingsdirect.com/6704-zz-ball-bearing-20x27x4-shielded-61704-2z1/
+32x - MR85 bearing, Mcmaster-Carr #7804K104
+		https://www.lily-bearing.com/products/mr85-2rs/
+		https://bearingsdirect.com/mr85-2rs-mini-ball-bearing-5x8x2-5-sealed-r850-2rs/
+32x - MR106 bearing, Mcmaster-Carr #7804K111
+		https://www.lily-bearing.com/products/mr106-2rs/
+		https://bearingsdirect.com/mr106-2rs-mini-ball-bearing-6x10x3-sealed-676-2rs-r1060-2rs/
+		
+Hardware:
+1x - 1" dia x 6" Keyed rotary shaft with 1/4" wd x 1/8" dp keyway, Mcmaster-Carr #1497K144
+8x - M5 Nuts, Mcmaster-Carr #90592A095
+8x - M5 x 22 hex cap screw, Mcmaster-Carr #91290A248
+16x - 6mm dia x 20mm dowel pin, 18-8 stainless, Mcmaster-Carr #91585A645 (order two packs)
+4x - 3mm Dia x 14mm dowel pin, 18-8 stainless, Mcmaster-Carr #91585A374
+8x - M5 x 30mm hex cap screw, Mcmaster-Carr #91290a254
+If using gearbox bearing plate with countersunk holes:
+	4x - M4 x 30 Countersink screw, Mcmaster-Carr #91294a200
+If using gearbox bearing plate without countersunk holes:
+	4x - M4 x 30 hex cap screw, Mcmaster-Carr #91290A180
+
+Motor:
+Nema 34 Stepper, 1/2" Dia shaft, 1.5" Long, Mcmaster-Carr #6627T56 or #6627T57. #6627T58 may not fit.
+Digikey part #2300-SM2862-5252-ND, use larger hole center cams for this
+Make sure to get a D profile shaft if substituting another motor (or adjust the models for the center cam parts)
