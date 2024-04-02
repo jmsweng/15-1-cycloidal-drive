@@ -4,6 +4,8 @@
 
 ## Table of contents
 - [Components list](#components)
+    - [Hardware](#hardware)
+    - [Laser cut parts](#laser-cut-parts) 
 - [Assembly instructions](#assembly-instructions)
     - [Top arm](#top-arm)
     - [Base plate](#base-plate)
@@ -11,17 +13,29 @@
     - [Tensioning spring installation](#tensioning-spring-installation)
 
 ## Components:
-### Base plate
+### Hardware
+- 2x - 6301 Ball bearing, McMaster Carr #5972K318
+- 1x - M12 x 40mm Hex cap screw, McMaster Carr #91239A620
+- 1x - M12 Nut, McMaster Carr #90593A009
+- 2x - M10 x 220 mm hex cap screw, partially threaded, McMaster-Carr #91290A160
+- 4x - M10 Steel washer, 18mm OD x 10.5mm ID, McMaster-Carr #98687A138
+- 2x - 0.75” OD x 0.48” ID x 3” springs, McMaster-Carr #9657K438
+
+### Laser cut parts
+#### Base plate
+Cut from 0.500" mild steel
 
 ![Base plate component](Pictures/Base%20plate.png)
-### Top arm
+#### Top arm
+Cut from 0.500" mild steel
 
 ![Top arm component](Pictures/Top%20arm.png)
-### Bearing spacer
+#### Bearing spacer
+Cut from 0.060" 304 stainless steel
 
 ![Bearing spacer component](Pictures/Bearing%20spacer.png)
-### Tensioning spring tabs:
-
+#### Tensioning spring tabs:
+Cut from 0.500" mild steel
 Right tab shown should be tapped with M10 threads
 
 ![Tensioning spring tabs](Pictures/Tensioning%20spring%20tabs.png)
@@ -86,7 +100,7 @@ Once epoxy is cured on both parts, assemble the top arm and base plate as shown 
 ![Wicking threadlocker position](Pictures/Hinge%20bolt%2C%20threadlocker%20location.png)
 
 ### Tensioning spring installation
-Insert tensioning screws, washer, tensioning spring, and washer into tensioning tab holes as shown below. Tensioning screws are M10 x 220mm partially threaded hex cap screws. Washers are M10 washers. Springs are 0.75” OD x 0.48” ID x 3” springs, Mcmaster-Carr part #9657K438. 
+Insert tensioning screws, washer, tensioning spring, and washer into tensioning tab holes as shown below. Tensioning screws are M10 x 220mm partially threaded hex cap screws. Washers are M10 washers. Springs are 0.75” OD x 0.48” ID x 3” springs, McMaster-Carr part #9657K438. 
 
 ![Tensioning spring installation](Pictures/Tensioning%20spring%20installation.png)
 
