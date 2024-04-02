@@ -5,7 +5,8 @@
 ## Table of contents
 - [Components list](#components)
     - [Hardware](#hardware)
-    - [Laser cut parts](#laser-cut-parts) 
+    - [Laser cut parts](#laser-cut-parts)
+    - [Misc needed](#misc-needed)
 - [Assembly instructions](#assembly-instructions)
     - [Top arm](#top-arm)
     - [Base plate](#base-plate)
@@ -39,6 +40,12 @@ Cut from 0.500" mild steel
 Right tab shown should be tapped with M10 threads
 
 ![Tensioning spring tabs](Pictures/Tensioning%20spring%20tabs.png)
+
+### Misc needed
+- Bearing retaining compound
+    - Recommended Loctite 638
+- Threadlocker
+    - Recommended Loctite 620
 ## Assembly instructions:
 
 ### Top arm
