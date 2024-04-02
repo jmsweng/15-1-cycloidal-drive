@@ -5,3 +5,4 @@
 Assembly pictured with 15:1 cycloidal gearbox mounted on a NEMA 34 stepper motor with an RPS-20 pinion
 
 ![Assembly instructions](Assembly_instructions.md)
+Components list is contained in assembly instructions.
